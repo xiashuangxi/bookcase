@@ -11,10 +11,11 @@
         <div class="panel horizontal">
             💡 这里是一个个人书架，存储着个人收藏的书籍。
         </div>
+        <input type="text" id="search_data_url" value="{{namespace}}/data/books.json"/>
 
         <script>
             window.onload = function() {
-                axios.get("{{namespace}}/data/books.json")
+                axios.get(document.getElementById("search_data_url").value)
                 .then( function(response){
                     var options = {
                         shouldSort: true,
