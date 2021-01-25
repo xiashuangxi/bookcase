@@ -4,3 +4,21 @@
     url: https://github.com/xiashuangxi/bookcase/raw/main/books/%E6%9D%BE%E4%B8%8B%E5%B9%B8%E4%B9%8B%E5%8A%A9%E7%9A%84%E7%94%A8%E4%BA%BA%E4%B9%8B%E9%81%93.mobi
   author: 可致一
   update: 2021-01-25 12:15:53
+
+- name: 四世同堂
+  expand: 
+  - name: epub
+    url: https://github.com/xiashuangxi/bookcase/raw/main/books/%E6%9D%BE%E4%B8%8B%E5%B9%B8%E4%B9%8B%E5%8A%A9%E7%9A%84%E7%94%A8%E4%BA%BA%E4%B9%8B%E9%81%93.mobi
+  - name: mobi
+    url: https://github.com/xiashuangxi/bookcase/raw/main/books/%E6%9D%BE%E4%B8%8B%E5%B9%B8%E4%B9%8B%E5%8A%A9%E7%9A%84%E7%94%A8%E4%BA%BA%E4%B9%8B%E9%81%93.mobi
+  author: 老舍
+  update: 2021-01-25 04:35:28
+
+- name: 駱駝祥子
+  expand: 
+  - name: epub
+    url: https://github.com/xiashuangxi/bookcase/raw/main/books/%E6%9D%BE%E4%B8%8B%E5%B9%B8%E4%B9%8B%E5%8A%A9%E7%9A%84%E7%94%A8%E4%BA%BA%E4%B9%8B%E9%81%93.mobi
+  - name: mobi
+    url: https://github.com/xiashuangxi/bookcase/raw/main/books/%E6%9D%BE%E4%B8%8B%E5%B9%B8%E4%B9%8B%E5%8A%A9%E7%9A%84%E7%94%A8%E4%BA%BA%E4%B9%8B%E9%81%93.mobi
+  author: 老舍
+  update: 2021-01-25 04:35:28
