@@ -63,7 +63,7 @@
                     
                     for (let index = 0; index < data.expand.length; index++) {
                         const element = data.expand[index];
-                        html = html + '<a href="'+element.url+'">'+element.name+'</a>';
+                        html = html + '<a title="下载" href="'+element.url+'">'+element.name+'</a>';
                         if (index < data.expand.length-1){html = html + "、";}
                     }
                 html = html + "</span>"
