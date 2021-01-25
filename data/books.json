@@ -1,0 +1,4 @@
+---
+layout: null
+---
+[{% for book in site.data.books %}{"name":"{{book.name}}","author":"{{book.author}}","update":"{{book.update}}","expand":[{% for exp in book.expand %}{"name":"{{exp.name}}","url":"{{exp.url}}"}{% if forloop.last == false%},{%endif%}{% endfor %}]}{% if forloop.last == false%},{%endif%}{% endfor %}]
