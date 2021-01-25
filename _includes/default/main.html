@@ -12,7 +12,7 @@
         <div class="panel horizontal">
             💡 这里是一个个人书架，存储着个人收藏的书籍。
         </div>
-        <input type="text" style="display:none;" id="search_data_url" value="{{namespace}}/data/books.json"/>
+        <input type="text" style="display:none;" id="search_data_url" value="{{namespace}}/data/books.json?v={{site.github.build_revision}}"/>
 
         <script>
             window.onload = function() {
